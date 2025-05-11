@@ -12,7 +12,7 @@ export const Brand: FC<BrandProps> = ({ theme = "dark" }) => {
   return (
     <Link
       className="flex cursor-pointer flex-col items-center hover:opacity-50"
-      href="#"
+      href="https://testting-five.vercel.app"
       target="_blank"
       rel="noopener noreferrer"
     >
